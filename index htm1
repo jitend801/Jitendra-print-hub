@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jitendra Online Cafe</title>
+
+<style>
+body{
+font-family:Arial,sans-serif;
+background:#f2f2f2;
+margin:0;
+padding:0;
+}
+
+header{
+background:#0d6efd;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+.container{
+max-width:700px;
+margin:30px auto;
+background:white;
+padding:20px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,.2);
+}
+
+h2{
+text-align:center;
+}
+
+.price{
+font-size:18px;
+margin:15px 0;
+}
+
+.btn{
+display:block;
+width:100%;
+background:#28a745;
+color:white;
+text-decoration:none;
+padding:15px;
+text-align:center;
+border-radius:8px;
+font-size:20px;
+margin-top:20px;
+}
+
+footer{
+text-align:center;
+padding:20px;
+color:#555;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>Jitendra Online Cafe</h1>
+<p>Online Print Service</p>
+</header>
+
+<div class="container">
+
+<h2>Welcome</h2>
+
+<p>अब आप अपने मोबाइल से PDF या Photo अपलोड करके प्रिंट ऑर्डर दे सकते हैं।</p>
+
+<div class="price">
+<b>Black & White :</b> ₹5 / Page
+</div>
+
+<div class="price">
+<b>Color Print :</b> ₹10 / Page
+</div>
+
+<a class="btn" href="#">Upload File</a>
+
+</div>
+
+<footer>
+
+📞 Contact : 7380993678
+
+</footer>
+
+</body>
+</html>po
